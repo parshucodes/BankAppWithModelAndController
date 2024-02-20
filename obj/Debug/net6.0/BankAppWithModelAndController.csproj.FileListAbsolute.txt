@@ -1,0 +1,14 @@
+C:\Users\parsh\Documents\Projects\bankappwithmodelandcontroller\bin\Debug\net6.0\BankAppWithModelAndController.exe
+C:\Users\parsh\Documents\Projects\bankappwithmodelandcontroller\bin\Debug\net6.0\BankAppWithModelAndController.deps.json
+C:\Users\parsh\Documents\Projects\bankappwithmodelandcontroller\bin\Debug\net6.0\BankAppWithModelAndController.runtimeconfig.json
+C:\Users\parsh\Documents\Projects\bankappwithmodelandcontroller\bin\Debug\net6.0\BankAppWithModelAndController.dll
+C:\Users\parsh\Documents\Projects\bankappwithmodelandcontroller\bin\Debug\net6.0\BankAppWithModelAndController.pdb
+C:\Users\parsh\Documents\Projects\bankappwithmodelandcontroller\obj\Debug\net6.0\BankAppWithModelAndController.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parsh\Documents\Projects\bankappwithmodelandcontroller\obj\Debug\net6.0\BankAppWithModelAndController.AssemblyInfoInputs.cache
+C:\Users\parsh\Documents\Projects\bankappwithmodelandcontroller\obj\Debug\net6.0\BankAppWithModelAndController.AssemblyInfo.cs
+C:\Users\parsh\Documents\Projects\bankappwithmodelandcontroller\obj\Debug\net6.0\BankAppWithModelAndController.csproj.CoreCompileInputs.cache
+C:\Users\parsh\Documents\Projects\bankappwithmodelandcontroller\obj\Debug\net6.0\BankAppWithModelAndController.dll
+C:\Users\parsh\Documents\Projects\bankappwithmodelandcontroller\obj\Debug\net6.0\refint\BankAppWithModelAndController.dll
+C:\Users\parsh\Documents\Projects\bankappwithmodelandcontroller\obj\Debug\net6.0\BankAppWithModelAndController.pdb
+C:\Users\parsh\Documents\Projects\bankappwithmodelandcontroller\obj\Debug\net6.0\BankAppWithModelAndController.genruntimeconfig.cache
+C:\Users\parsh\Documents\Projects\bankappwithmodelandcontroller\obj\Debug\net6.0\ref\BankAppWithModelAndController.dll
